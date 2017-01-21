@@ -1,0 +1,18 @@
+{
+  "status": "done",
+  "error": "ModuleBuildError",
+  "file": "/Users/SamO/projects/2017_winter/buttonbait/src/components/Nav/index.js",
+  "message": "Module build failed: SyntaxError: Unexpected token (3:15)\n\n  1 | import React from 'react';\n  2 | \n> 3 | export defualt () => (\n    |                ^\n  4 |   <nav>\n  5 | \n  6 |   </nav>\n",
+  "chunks": {
+    "main": [
+      {
+        "name": "bundle.js",
+        "path": "/bundle.js"
+      },
+      {
+        "name": "bundle.js.map",
+        "path": "/bundle.js.map"
+      }
+    ]
+  }
+}
